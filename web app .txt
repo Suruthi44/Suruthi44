@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<h2>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+  
+    <form id="file-upload-form" class="uploader">
+        <input id="fileInput" type="file" name="file" />
+    </form>
+</body>
+<script src="https://cdn.rawgit.com/Keyang/node-csvtojson/d41f44aa/browser/csvtojson.min.js"></script>
+<script>
+let finalJSON;
+    let arrayData;
+    let header
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<h2>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+  
+    <form id="file-upload-form" class="uploader">
+        <input id="fileInput" type="file" name="file" />
+    </form>
+</body>
+<script src="https://cdn.rawgit.com/Keyang/node-csvtojson/d41f44aa/browser/csvtojson.min.js"></script>
+<script>
+let finalJSON;
+    let arrayData;
+    let header
+<!DOCTYPE html>
+v
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<h2>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+  
+    <form id="file-upload-form" class="uploader">
+        <input id="fileInput" type="file" name="file" />
+    </form>
+</body>
+<script src="https://cdn.rawgit.com/Keyang/node-csvtojson/d41f44aa/browser/csvtojson.min.js"></script>
+<script>
+let finalJSON;
+    let arrayData;
+    let header
+<!DOCTYPE html>
